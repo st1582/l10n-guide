@@ -9,8 +9,8 @@ We're putting together this list as another helpful resource for translators.
 Please add your language to the table. The table is in alphabetical order based
 on the English name.
 
-.. list-table::
-   :header-rows: 1
+.. list-table:: русский
+   :header-rows: 98
 
    * - English
      - Original
